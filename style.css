@@ -253,7 +253,7 @@ footer .footer-bottom{
     .gift-cards{
         grid-template-columns: 1fr;
     }
-    .footer-cols{
+   footer .footer-cols{
         display: none;
     }
   }
