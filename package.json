@@ -4,7 +4,7 @@
   "description": "Responsive_landing_page",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d Responsive_landing_page"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
