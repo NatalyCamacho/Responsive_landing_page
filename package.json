@@ -1,0 +1,23 @@
+{
+  "name": "Responsive_landing_page",
+  "version": "1.0.0",
+  "description": "Responsive_landing_page",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d Responsive_landing_page"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jmas21/Responsive_landing_page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/Jmas21/Responsive_landing_page",
+  "bugs": {
+    "url": "https://github.com/Jmas21/Responsive_landing_page/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
